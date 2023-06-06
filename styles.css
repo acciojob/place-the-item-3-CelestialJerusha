@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	flex-direction: row;
+	flex-wrap: wrap;
 	justify-content: space-evenly;
 }
 .box1, .box2, .box3{
